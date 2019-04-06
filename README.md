@@ -89,7 +89,7 @@ En el sistema binario bastan el *No Ser* - Cero y el *Ser* - Uno para expresar t
 11 - Tres
 
 | | | |
-| --- | --- | --- |
+|-|-|-|
 |Combinaciones binarias de 1 dígito: | Combinaciones binarias de 2 dígitos: | Combinaciones binarias de 3 dígitos |
 |0 - Cero | 00 - Cero | **nicely**|
 |1 | 2 | 3 |
