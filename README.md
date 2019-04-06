@@ -81,16 +81,32 @@ Para entenderlo, notemos primero que en el esquema aparece un octavo número: el
 
 En el sistema binario bastan el *No Ser* - Cero y el *Ser* - Uno para expresar todos los infinitos números naturales. 
 
+Combinaciones binarias de 1 dígito:  
+0 - Cero  
 1 - Uno
 
+Combinaciones binarias de 2 dígitos:
 00 - Cero  
 01 - Uno  
 10 - Dos  
 11 - Tres
 
-|-|-|-|
-|Combinaciones binarias de 1 dígito: | Combinaciones binarias de 2 dígitos: | Combinaciones binarias de 3 dígitos |
-|0 - Cero | 00 - Cero | **nicely**|
-|1 | 2 | 3 |
+Combinaciones binarias de 3 dígitos:
+000 - Cero
+001 - Uno
+010 - Dos
+011 - Tres
+100 - Cuatro
+101 - Cinco
+110 - Seis
+111 - Siete
 
+Observemos que estas últimas combinaciones se pueden agrupar en cuatro subconjuntos:  
+
+Números en los que el *Ser* no se manifiesta ni una vez: 000.  
+Números en los que el *Ser* se manifiesta una vez: 001, 010, 100.
+Números en los que el *Ser* se manifiesta dos veces: 011, 101, 110.
+Números en los que el *Ser* se manifiesta triple: 111.
+
+De acuerdo a este esquema, en el relato de la Creación, los primeros tres días se corresponden con los combinaciones binarias que sólo contienen un 1, y los siguientes tres días se corresponden con aquellas en que el 1 aparece dos veces. El séptimo día corresponde al 111, y el 000 corresponde al día cero, antes de los días. 
 
