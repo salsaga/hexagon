@@ -29,7 +29,7 @@ Tal vez era necesario justificar míticamente una semana de 7 días que quizá t
 
 En cualquier caso, si se colocan 6 puntos en círculo, formando un hexágono, se pueden preservar todas las simetrías si se añade un séptimo punto en el centro. Esta figura puede hallarse en otro ámbito que, de hecho, es más universal que las religiones nacidas del desierto de Canaan: los colores primarios de luz, rojo, azul y verde. Dispónganse en un triángulo y, entre los vértices, obténganse sus combinaciones:
 
-
+![](colors.png)
 
 Y al combinar todos, en el centro, está el blanco. 
 
