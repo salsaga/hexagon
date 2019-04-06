@@ -91,20 +91,20 @@ Combinaciones binarias de 2 dígitos:
 10 - Dos  
 11 - Tres
 
-Combinaciones binarias de 3 dígitos:
-000 - Cero
-001 - Uno
-010 - Dos
-011 - Tres
-100 - Cuatro
-101 - Cinco
-110 - Seis
+Combinaciones binarias de 3 dígitos:  
+000 - Cero  
+001 - Uno  
+010 - Dos  
+011 - Tres  
+100 - Cuatro  
+101 - Cinco  
+110 - Seis  
 111 - Siete
 
 Observemos que estas últimas combinaciones se pueden agrupar en cuatro subconjuntos:  
 
 Números en los que el *Ser* no se manifiesta ni una vez: 000.  
-Números en los que el *Ser* se manifiesta una vez: 001, 010, 100.
+Números en los que el *Ser* se manifiesta una vez: 001, 010, 100.  
 Números en los que el *Ser* se manifiesta dos veces: 011, 101, 110.
 Números en los que el *Ser* se manifiesta triple: 111.
 
