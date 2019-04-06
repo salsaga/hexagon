@@ -61,4 +61,6 @@ Este esquema de colores primarios tampoco es tan universal, porque depende de la
 
 ![](numbers.png)
 
+No es necesario que el lector esté versado en matemáticas para apreciar la belleza de la figura anterior, pero si le da curiosidad saber qué significa la expresión "7 = 0 mod 7", o entender un poco mejor la explicación de los campos finitos del enlace anterior, [puede intersarle esta breve introducción a la aritmética modular](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/what-is-modular-arithmetic) (la notación es un poco diferente, en lugar de escribir "7 = 0 mod 7", escribirían 7 mod 7 = 0, pero es lo mismo). 
 
+![](spiral.png)
