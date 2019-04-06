@@ -17,6 +17,24 @@ No sé si correcta, pero la llamada "framework interpretation" es bonita. [En es
 Día 1 - Día 4  
 El primer día Dios crea el día y la noche y en el cuarto los puebla con el sol y la luna y las estrellas (que podrían considerarse seres animados porque se mueven).
 
+Día 2 - Día 5  
+En el segundo día Dios crea el mar y el 'cielo', y en el quinto los puebla con peces y aves.
+
+Día 3 - Día 6  
+En el tercer día Dios crea la Tierra (con todo y plantas, que no se mueven mucho), y en el sexto la puebla con bestias y con el hombre.
+
+"Y así fueron acabados los cielos y la tierra (o sea, todo cuanto existe) y sus vastas huestes". De acuerdo al mismo relato, nada faltaba ya. ¿Por qué romper la rima 'lunes y martes y miércoles, tres'-'jueves y viernes y sábado, seis' con un 'domingo, siete'? ¿Un Dios todopoderoso necesitaba descansar? ¿Por qué sólo un día para glorificar la obra de Dios? ¿Por qué no otros 6, por ejemplo?
+
+Tal vez era necesario justificar míticamente una semana de 7 días que quizá tuvo su origen en la duración usual de una fase lunar (si se divide el ciclo lunar de 29.53 días entre 4, se obtienen 7.38 días). Tal vez el 7 era ya un número importante para los judíos por cualquier otro motivo, y por eso la Biblia esta llena de sietes, comenzando por el primer verso, "en el principio creó Dios los Cielos y la Tierra", que en la versión hebrea tiene 7 palabras y 28 = 7x4 letras. 
+
+En cualquier caso, si se colocan 6 puntos en círculo, formando un hexágono, se pueden preservar todas las simetrías si se añade un séptimo punto en el centro. Esta figura puede hallarse en otro ámbito que, de hecho, es más universal que las religiones nacidas del desierto de Canaan: los colores primarios de luz, rojo, azul y verde. Dispónganse en un triángulo y, entre los vértices, obténganse sus combinaciones:
+
+
+
+Y al combinar todos, en el centro, está el blanco. 
+
+---
+
 
 
 
