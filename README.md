@@ -14,7 +14,7 @@ El literalismo absoluto no es la postura oficial de la iglesia católica. Muchos
 
 No sé si correcta, pero la llamada "framework interpretation" es bonita. [En este enlace puede conocer el lector algunos de sus proponentes, argumentos en pro y en contra y bibliografía](https://en.wikipedia.org/wiki/Framework_interpretation_(Genesis)). La idea básica es que los tres primeros días de la Creación, Dios creó los escenarios que luego poblaría en los siguientes tres días con seres animados, de manera que se pueden hacer pares:
 
-Día 1 - Día 4
+Día 1 - Día 4  
 El primer día Dios crea el día y la noche y en el cuarto los puebla con el sol y la luna y las estrellas (que podrían considerarse seres animados porque se mueven).
 
 
