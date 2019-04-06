@@ -57,7 +57,7 @@ Y ¿qué color se puede asociar mejor al séptimo día, en que se glorifica a Di
 
 ---
 
-Este esquema de colores primarios tampoco es tan universal, porque depende de la percepción humana (y no daltónica) de una reducida franja del espectro lumínico. Al menos aditivamente, los colores primarios se comportan de manera muy similar a los números de un [campo algebraico de 7 elementos](https://web.sta nford.edu/class/ee392d/Chap7.pdf):
+Este esquema de colores primarios tampoco es tan universal, porque depende de la percepción humana (y no daltónica) de una reducida franja del espectro lumínico. Al menos aditivamente, los colores primarios se comportan de manera muy similar a los números de un [campo algebraico de 7 elementos](https://web.stanford.edu/class/ee392d/Chap7.pdf):
 
 ![](numbers.png)
 
