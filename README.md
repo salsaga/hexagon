@@ -61,6 +61,22 @@ Este esquema de colores primarios tampoco es tan universal, porque depende de la
 
 ![](numbers.png)
 
-No es necesario que el lector esté versado en matemáticas para apreciar la belleza de la figura anterior, pero si le da curiosidad saber qué significa la expresión "7 = 0 mod 7", o entender un poco mejor la explicación de los campos finitos del enlace anterior, [puede intersarle esta breve introducción a la aritmética modular](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/what-is-modular-arithmetic) (la notación es un poco diferente, en lugar de escribir "7 = 0 mod 7", escribirían 7 mod 7 = 0, pero es lo mismo). 
+No es necesario que el lector esté versado en matemáticas para apreciar la belleza de la figura anterior, pero si le da curiosidad saber qué significa la expresión "7 = 0 mod 7", o entender un poco mejor la explicación de los campos finitos del enlace anterior, [puede intersarle esta introducción a la aritmética modular](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/what-is-modular-arithmetic) (la notación es un poco diferente, en lugar de escribir "7 = 0 mod 7", escribirían "7 mod 7 = 0", pero es lo mismo). 
 
 ![](spiral.png)
+
+---
+
+Obsérvese nuevamente el siguiente esquema:
+
+![](numbers.png)
+
+Quizá haya notado el lector una aparente incongruencia. En este esquema el verde corresponde al número 4, pero habíamos asociado al verde con el Día 3 de la Creación. De hecho, los únicos colores que cuyo número y día coinciden son el rojo y el azul, todos los demás se 'descompusieron'. Bueno pues... los designios de Dios son insondables ¿no?... Aunque también puede hallarse un solución a este problema. 
+
+Para entenderlo, notemos primero que en el esquema aparece un octavo número: el 0. El cero, la nada. El ámbito desordenado y vacío que existía antes de que Dios dijera "sea".  El color negro, vacío, en que está inmerso el hexágono de colores primarios de luz. 
+
+¿Por qué existe el Ser en lugar de la Nada? El Ser de la Creación surge del No Ser primordial. Luego, el Ser - Vida desemboca inevitablemente en el No Ser - Muerte, pero es necesario que haya muerte para que pueda surgir nueva vida. 
+
+No Ser - Ser, negro - blanco, noche - día, frío - calor. Igual de malo es el calor en exceso que la ausencia completa de calor. Podríamos representar esta dualidad fundamental con el símbolo del Yin-Yang, aunque la alegoría se acercaría más al relato de la Creación si simplemente pintamos un punto de luz blanca en medio de la oscuridad. Algo así como una estrella blanca en medio del universo vacío. La oscuridad No Ser. Un único punto de luz, un único Dios. Pero esta unicidad simple y luminosa, ¿puede realmente ser concebida sin el fondo negro?
+
+
