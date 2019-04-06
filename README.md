@@ -110,3 +110,4 @@ Números en los que el *Ser* se manifiesta triple: 111.
 
 De acuerdo a este esquema, en el relato de la Creación, los primeros tres días se corresponden con los combinaciones binarias que sólo contienen un 1, y los siguientes tres días se corresponden con aquellas en que el 1 aparece dos veces. El séptimo día corresponde al 111, y el 000 corresponde al día cero, antes de los días. 
 
+![](binaries.png)
