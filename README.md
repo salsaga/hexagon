@@ -35,7 +35,30 @@ Y al combinar todos, en el centro, está el blanco.
 
 ---
 
+Día 1 - Rojo  
+Al asociar el rojo con el fuego y el fuego con la luz que crea Dios el primer día.
 
+Día 2 - Azul  
+El color del cielo profundo y los mares profundos que separa Dios el segundo día.
 
+Día 3 - Verde  
+El color de las plantas que cubren la Tierra que crea Dios el tercer día.
+
+Día 4 - Rojo + Azul
+Al asociar el fuego con las luminarias que se colocan en el cielo profundo.
+
+Día 5 - Azul + Verde
+Cian, el color del agua somera y el cielo claro, donde habitan los peces y las aves.
+
+Día 6 - Verde + Rojo
+En la tierra verde habita el hombre con su fuego.
+
+Y ¿qué color se puede asociar mejor al séptimo día, en que se glorifica a Dios, que el blanco luminoso y pleno? 
+
+---
+
+Este esquema de colores primarios tampoco es tan universal, porque depende de la percepción humana (y no daltónica) de una reducida franja del espectro lumínico. Al menos aditivamente, los colores primarios se comportan de manera muy similar a los números de un [campo algebraico de 7 elementos](https://web.sta nford.edu/class/ee392d/Chap7.pdf):
+
+![](numbres.png)
 
 
