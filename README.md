@@ -75,8 +75,22 @@ Quizá haya notado el lector una aparente incongruencia. En este esquema el verd
 
 Para entenderlo, notemos primero que en el esquema aparece un octavo número: el 0. El cero, la nada. El ámbito desordenado y vacío que existía antes de que Dios dijera "sea".  El color negro, vacío, en que está inmerso el hexágono de colores primarios de luz. 
 
-¿Por qué existe el Ser en lugar de la Nada? El Ser de la Creación surge del No Ser primordial. Luego, el Ser - Vida desemboca inevitablemente en el No Ser - Muerte, pero es necesario que haya muerte para que pueda surgir nueva vida. 
+¿Por qué existe el Ser en lugar de la Nada? El *Ser* de la Creación surge del *No Ser* primordial. Luego, el *Ser* - Vida desemboca inevitablemente en el *No Ser* - Muerte, pero es necesario que haya muerte para que pueda surgir nueva vida. 
 
-No Ser - Ser, negro - blanco, noche - día, frío - calor. Igual de malo es el calor en exceso que la ausencia completa de calor. Podríamos representar esta dualidad fundamental con el símbolo del Yin-Yang, aunque la alegoría se acercaría más al relato de la Creación si simplemente pintamos un punto de luz blanca en medio de la oscuridad. Algo así como una estrella blanca en medio del universo vacío. La oscuridad No Ser. Un único punto de luz, un único Dios. Pero esta unicidad simple y luminosa, ¿puede realmente ser concebida sin el fondo negro?
+*No Ser* - *Ser*, negro - blanco, noche - día, frío - calor. Igual de malo es el calor en exceso que la ausencia completa de calor. Podríamos representar esta dualidad fundamental con el símbolo del Yin-Yang, aunque la alegoría se acercaría más al relato de la Creación si simplemente pintamos un punto de luz blanca en medio de la oscuridad. Algo así como una estrella blanca en medio del universo vacío. La oscuridad *No Ser*. Un único punto de luz *Ser*, un único Dios. Pero esta unicidad simple y luminosa, ¿puede realmente ser concebida sin el fondo negro?
+
+En el sistema binario bastan el *No Ser* - Cero y el *Ser* - Uno para expresar todos los infinitos números naturales. 
+
+1 - Uno
+
+00 - Cero  
+01 - Uno  
+10 - Dos  
+11 - Tres
+
+Combinaciones binarias de 1 dígito: | Combinaciones binarias de 2 dígitos: | Combinaciones binarias de 3 dígitos
+--- | --- | ---
+0 - Cero | 00 - Cero | **nicely**
+1 | 2 | 3
 
 
