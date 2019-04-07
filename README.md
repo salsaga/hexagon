@@ -49,7 +49,7 @@ El color de las aguas someras y el cielo claro que habitan los peces y las aves.
 
 Día 6 - ¿Amarillo?
 
-Día 7 - Blanco
+Día 7 - Blanco  
 ¿Qué color se puede asociar mejor al séptimo día, que el blanco luminoso y pleno? 
 
 ---
