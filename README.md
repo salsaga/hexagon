@@ -85,7 +85,7 @@ Combinaciones binarias de 1 dígito:
 0 - Cero  
 1 - Uno
 
-Combinaciones binarias de 2 dígitos:
+Combinaciones binarias de 2 dígitos:  
 00 - Cero  
 01 - Uno  
 10 - Dos  
@@ -111,3 +111,23 @@ Números en los que el *Ser* se manifiesta triple: 111.
 De acuerdo a este esquema, en el relato de la Creación, los primeros tres días se corresponden con los combinaciones binarias que sólo contienen un 1, y los siguientes tres días se corresponden con aquellas en que el 1 aparece dos veces. El séptimo día corresponde al 111, y el 000 corresponde al día cero, antes de los días. 
 
 ![](binaries.png)
+
+
+Rojo - 001 - Uno - Día 1  
+Ya hemos asociado la luz con el fuego. Dios es uno, Dios es luz. Dios crea la luz el primer día.
+
+Azul - 010 - Dos - Día 2
+El segundo día se separaron las aguas. Existen ahora dos aguas, las  arriba del abajo.
+
+Verde - 100 - Cuatro - Día 3.
+La Tierra, que surge el tercer día, posee cuatro puntos cardinales. La seca tierra es sólida como un cuadrado, estable como una mesa con cuatro puntos de apoyo. 
+
+Los primeros tres días recorren un triángulo del hexágono, rotando en un sentido; los siguientes tres días recorren el segundo triángulo, rotando en el mismo sentido. En este campo algebraico de 7 elementos, multiplicar dos números equivale a rotar uno de ellos en ese mismo sentido, por el ángulo que forma el otro punto con el 1, que es el neutro multiplicativo. 
+
+¿Quiere decir todo esto que el autor del Génesis poseía una sabiduría arcana que incluía el conocimiento de los campos algebraicos? En realidad, es mucho más probable que sólo haya querido hacer encajar el 7 de una ancestral 'semana' lunar en un mito fundacional, y que el resto se deba en parte a la simetría que motiva la belleza que seguramente quiso plasmar, y en parte a una excesiva imaginación mía que ha querido asociar otro par de fenómenos que casualmente poseen una simetría similar. 
+
+Se trata de simples asociaciones. No tienen sustento científico. Su sustento racional es, cuando menos, endeble. No las provee ningún grupo religioso ni las he encontrado en ningún sitio de esoterismo. Es sólo un debraye personal muy mío. 
+
+---
+
+En el esquema que surge de la dualidad fundamental *Ser* - *No Ser*, cada potencia de 2 provee una alegoría del universo entero. Ya hemos asociado 2^3 
