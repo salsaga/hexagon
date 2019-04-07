@@ -137,7 +137,5 @@ En el esquema que surge de la dualidad fundamental *Ser* - *No Ser*, cada potenc
 Al igual que 7, el número 3 es primo, de modo que también existe un campo algebraico de 3 elementos. Esta magia se pierde con 2^4, pero se recupera con 2^5. Los números primos de la forma 2^n - 1 se conocen como primos de Mersenne. Entre otras cuestiones de interés matemático, todos los números perfectos que se conocen son pares, triangulares, hexagonales y están determinados por primos de Mersenne.
 
 2^1 - 1 = 1 &nbsp; &nbsp; Dios es uno.  
-2^2 - 1 = 3 &nbsp; &nbsp; Tres son las personas de la Trinidad: Padre, Hijo y Espíritu Santo.
+2^2 - 1 = 3 &nbsp; &nbsp; Tres son las personas de la Trinidad: Padre, Hijo y Espíritu Santo.  
 2^3 - 1 = 7 &nbsp; &nbsp; Siete son los días de la Creación, y es el número que más veces se repite en la Biblia.
-
----
