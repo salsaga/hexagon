@@ -130,4 +130,15 @@ Se trata de simples asociaciones. No tienen sustento científico. Su sustento ra
 
 ---
 
-En el esquema que surge de la dualidad fundamental *Ser* - *No Ser*, cada potencia de 2 provee una alegoría del universo entero. Ya hemos asociado 2^3 
+En el esquema que surge de la dualidad fundamental *Ser* - *No Ser*, cada potencia de 2 provee una alegoría del universo entero. Si empezamos con 2^0, obtenemos una sola entidad, que podemos concebir como el Todo, el universo en su conjunto. De esa única entidad primigenia surge la dualidad 2^1. De 2^3 hemos obtenido el *No Ser* 000 más las 7 entidades que hemos relacionado con las etapas de la Creación (la cual, que ciertamente simboliza al universo entero). Nos hemos saltado 2^2, que provee el *No Ser* más otras 3 entidades. 
+
+Al igual que 7, el número 3 es primo, de modo que también existe un campo algebraico de 3 elementos. Esta magia se pierde con 2^4, pero se recupera con 2^5. Los números primos de la forma 2^n - 1 se conocen como primos de Mersenne. Entre otras cuestiones de interés matemático, todos los números perfectos que se conocen son pares, triangulares, hexagonales y están determinados por primos de Mersenne.  
+Y curiosamente, el 3 es también un número importante para los cristianos.
+
+2^1 - 1 = 1 > Dios es uno.  
+2^2 - 1 = 3 > La Trinidad.  
+2^3 - 1 = 7 > Los días de la Creación, y el número que más veces se repite en la Biblia.
+
+
+
+
