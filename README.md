@@ -31,7 +31,7 @@ Si se colocan 6 puntos en círculo, formando un hexágono, el resultado es basta
 
 ![](colors.png)
 
-La estructura de este hexágono evoca bastante la estructura del primer relato del Génesis. Las siguientes asociaciones bien pueden considerarse un tanto forzadas, pero no las tome el lector demasiado en serio. El propósito es simplemente motivar la discusión posterior.
+La estructura de este hexágono evoca bastante la estructura del primer relato del Génesis. ¿Podrán asociarse los colores y los días? He aquí un intento:
 
 Día 1 - Rojo  
 Si se asocia el rojo con el fuego, y el fuego con la luz; la luz que crea Dios el primer día. 
@@ -58,7 +58,7 @@ El esquema de los colores depende de la percepción humana (y no daltónica) de 
 
 ![](numbers.png)
 
-Obsérvese que en este hexágono los números no coinciden con los números de los días que he querido asociar con los colores. Por ejemplo, en este esquema el verde corresponde al 4, pero habíamos asociado al verde con el Día 3. Nuevamente, pido paciencia al lector.
+Obsérvese que en este hexágono los números no coinciden con los números de los días que he querido asociar con los colores. Por ejemplo, en este esquema el verde corresponde al 4, pero habíamos asociado al verde con el Día 3. 
 
 Si le da curiosidad al lector saber qué significa la expresión "7 = 0 mod 7", o entender un poco mejor la explicación de los campos finitos del enlace anterior, [puede intersarle esta introducción a la aritmética modular](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/what-is-modular-arithmetic) (la notación es un poco diferente, en lugar de escribir "7 = 0 mod 7", escribirían "7 mod 7 = 0", pero es lo mismo). 
 
@@ -66,7 +66,7 @@ Si le da curiosidad al lector saber qué significa la expresión "7 = 0 mod 7", 
 
 ---
 
-Consideremos una octava entidad. El cero, la nada. El ámbito desordenado y vacío que existía antes de que Dios dijera "sea". El color negro, vacío, en que está inmerso el hexágono de colores primarios de luz. 
+El cero. La nada. El ámbito desordenado y vacío que existía antes de que Dios dijera "sea". El color negro, vacío, en que está inmerso el hexágono de colores primarios de luz. 
 
 ¿Por qué existe el Ser en lugar de la Nada? El *Ser* de la Creación surge del *No Ser* primordial. Luego, el *Ser* - Vida desemboca inevitablemente en el *No Ser* - Muerte, pero es necesario que haya muerte para que pueda surgir nueva vida. *No Ser* - *Ser*, negro - blanco, noche - día, frío - calor. Igual de malo es el calor en exceso que la ausencia completa de calor. 
 
@@ -128,7 +128,7 @@ El 100 es el cuatro. La Tierra, que surge el tercer día, posee cuatro puntos ca
 
 Los primeros tres días recorren el triángulo de los colores que poseen sólo un elemento de luz, rotando un tercio del círculo para ir de un punto al otro. En los diagramas he presentado el punto que corresponde al 1, a la derecha del eje horizontal que atraviesa el círculo, y la rotación de los días va hacia la izquierda. Los siguientes 3 días recorren los colores con dos elementos de luz, rotando también hacia la izquierda, casi repitiendo el mismo recorrido de los primeros tres días. 
 
-En este campo algebraico de 7 elementos, multiplicar dos números equivale a rotar uno de ellos en ese mismo sentido, por el ángulo que forma el otro punto con el 1, que es el neutro multiplicativo. 
+En este campo algebraico de 7 elementos, multiplicar dos números equivale a rotar hacia la izquierda uno de ellos, por el ángulo que forma el otro punto con el 1, que es el neutro multiplicativo. 
 
 ---
 
