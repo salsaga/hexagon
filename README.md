@@ -66,7 +66,7 @@ API development environments | 5 de 5
 
 ###### Vantis S de RL, Ciudad de México, *febrero 2019 - presente*
 
-Participo en el desarrollo de las interfaces de un sistema que permite consultar y actualizar información de empresas y empleados, que funciona en paralelo con una aplicación de check-in.  
+Participo en el desarrollo del front end de un sistema que permite consultar y actualizar información de empresas y empleados, que funciona en conjunto con una aplicación de check-in.  
 
 **JavaScript, TypeScript, Angular 7, HTML5, CSS3, servicios REST con CRUD**
 
@@ -100,8 +100,7 @@ Desarrollé las interfaces web de un sistema de gestión de apoyos para damnific
 ###### Tech and Design Associates, Ciudad de México, *agosto 2016 - mayo 2017*
 
 + Construí una herramienta WYSIWIG con drag and drop para crear banners de campañas publicitarias de Santander, compatible con Internet Explorer 7
-+ Maqueté una página con un tutorial e información acerca del producto 'transfer' de Bancoppel
-+ Contribuí con el mantenimiento de diversas páginas de Bancoppel y Santander.  
++ Maqueté una página con información acerca del producto 'transfer' de Bancoppel, y colaboré con el mantenimiento de otras páginas de Bancoppel y Santander.  
 
 **JavaScript, jQuery, Handlebars, HTML5, CSS3, SASS, servicios REST**
 
