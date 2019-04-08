@@ -16,7 +16,7 @@
 
 ## Idiomas
 
-Español nativo e inglés profesional (suficiente para poder comunicarme con gente de E.U, la India y Australia)
+Español nativo e inglés profesional (suficiente para poder comunicarme con gente de E.U, la India y Australia).
 
 ---
 
@@ -66,7 +66,7 @@ API development environments | 5 de 5
 
 ###### Vantis S de RL, Ciudad de México, *febrero 2019 - presente*
 
-Participo en el desarrollo del front end de un sistema que permite consultar y actualizar información de empresas y empleados, que funciona en conjunto con una aplicación de check-in.  
+Participo en el desarrollo de interfaces de un sistema que permite consultar y actualizar información de empresas y empleados, que funciona en paralelo con una aplicación de check-in.  
 
 **JavaScript, TypeScript, Angular 7, HTML5, CSS3, servicios REST con CRUD**
 
@@ -90,7 +90,7 @@ Desarrollé las interfaces web de un sistema de gestión de apoyos para damnific
 
 ###### Corporativo Walmart México, Naucalpan, *junio 2017 - noviembre 2017*
 
-+ Colaboré con un equipo internacional en la reingenería del flujo de pedidos y pagos de la web de Súper Walmart
++ Colaboré con un equipo internacional en la reingenería del flujo de pedidos y pagos de la web de Súper Walmart.
 + Desarrollé la componente web de "Super en Minutos" que ofrecía a los clientes un buscador de productos inteligente.  
 
 **JavaScript, React, jQuery, HTML5, CSS3, servicios REST con CRUD**
@@ -99,7 +99,7 @@ Desarrollé las interfaces web de un sistema de gestión de apoyos para damnific
 
 ###### Tech and Design Associates, Ciudad de México, *agosto 2016 - mayo 2017*
 
-+ Construí una herramienta WYSIWIG con drag and drop para crear banners de campañas publicitarias de Santander, compatible con Internet Explorer 7
++ Construí una herramienta WYSIWIG con drag and drop para crear banners de campañas publicitarias de Santander, compatible con Internet Explorer 7.
 + Maqueté una página con información acerca del producto 'transfer' de Bancoppel, y colaboré con el mantenimiento de otras páginas de Bancoppel y Santander.  
 
 **JavaScript, jQuery, Handlebars, HTML5, CSS3, SASS, servicios REST**
