@@ -31,6 +31,8 @@ TypeScript | 3 de 5
 React | 3 de 5 
 ECMAScript 6 | 3 de 5
 
+###### Gabriel Alejandro Salmerón Sanginés
+
 Más lenguajes, frameworks y herramientas | Expertiz
 --- | ---
 Task Runners | 3 de 5 
