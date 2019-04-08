@@ -58,7 +58,7 @@ API development environments | 5 de 5
 + He utilizado Nginx para hacer proxies, y he utlizado unos cuantos comandos de Windows y Unix. 
 + **He leído y editado código de Python y PHP**.  
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
 ## Proyectos
   
