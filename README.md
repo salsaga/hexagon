@@ -139,3 +139,6 @@ Al igual que 7, el número 3 es primo, de modo que también existe un campo alge
 2^1 - 1 = 1 &nbsp; &nbsp; Dios es uno.  
 2^2 - 1 = 3 &nbsp; &nbsp; Tres son las personas de la Trinidad: Padre, Hijo y Espíritu Santo.  
 2^3 - 1 = 7 &nbsp; &nbsp; Siete son los días de la Creación, y es el número que más veces se repite en la Biblia.
+
+---
+
