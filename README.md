@@ -4,9 +4,9 @@
 
 ---
 
-La Biblia. El texto más leído de la historia. El Antiguo Testamento es escritura sagrada de dos religiones. Una de ellas tiene más adeptos que ninguna otra en el mundo. Muchos son aún los que creen que los relatos biblícos son verdad absoluta y que, por ejemplo, las plantas no debieron pasar por un proceso de evolución de millones de años, sino que Dios las hizo crecer en un día con su milagroso poder. 
+La Biblia. El texto más leído de la historia. El Antiguo Testamento es escritura sagrada de dos religiones. Una de ellas tiene más adeptos que ninguna otra en el mundo. Aún son muchos los que creen que los relatos biblícos son verdad absoluta, y hay quienes creen, por ejemplo, que las plantas no debieron pasar por un proceso de evolución de millones de años, sino que Dios las hizo crecer en un día con su milagroso poder. 
 
-¿Por qué creó Dios el mundo en seis días? Los eventos del primer relato del Génesis transcurren en un periodo de tiempo demasiado corto para los estándares de la ciencia moderna y demasiado largo para un ser todo poderoso que bien pudo haber dicho 'sea todo ya'. Un 'literalista' dirá que Dios quiso establecer un patrón de días de trabajo y descanso que fuera bueno para el hombre. Pero ¿por qué no 5 u 8 días?, ¿ya sabía Dios desde el principio que Adán se comería la manzana y que debería condenarle, por tanto, a trabajar el resto de sus días?
+¿Por qué creó Dios el mundo en seis días? Los eventos del primer relato del Génesis transcurren en un periodo de tiempo demasiado corto para los estándares de la ciencia moderna y demasiado largo para un ser todo poderoso que bien pudo haber dicho 'sea todo ya'. Un 'literalista' dirá que Dios quiso establecer un patrón de días de trabajo y descanso adecuado para el hombre. Pero ¿por qué no 5 u 8 días?, ¿ya sabía Dios desde el principio que Adán se comería la manzana y que debería condenarle, por tanto, a trabajar el resto de sus días?
 
 El literalismo absoluto no es la postura oficial de la iglesia católica. Muchos son ya los cristianos que están dispuestos a interpretar el Génesis de manera simbólica. Un 'literalista' dirá que la interpretación simbólica implica conceder que la ciencia tiene más autoridad que la palabra de Dios. Otro cristiano, más convincentemente, responderá que no debería haber ninguna discrepancia entre la obra de Dios y la palabra de Dios. ¿Quién se cree enviado de Dios para afirmar que su interpretación es la correcta? 
 
@@ -31,7 +31,7 @@ Si se colocan 6 puntos en círculo, formando un hexágono, el resultado es basta
 
 ![](colors.png)
 
-La estructura de este hexágono evoca bastante la estructura del primer relato del Génesis. ¿Podrán asociarse los colores y los días? He aquí un intento:
+La estructura de este hexágono evoca bastante la estructura del primer relato del Génesis. ¿Podrán asociarse los colores y los días? Propuesta:
 
 Día 1 - Rojo  
 Si se asocia el rojo con el fuego, y el fuego con la luz; la luz que crea Dios el primer día. 
@@ -54,7 +54,9 @@ Día 7 - Blanco
 
 ---
 
-El esquema de los colores depende de la percepción humana (y no daltónica) de una reducida franja del espectro lumínico. Más universales son las matemáticas. Las combinaciones de los colores primarios se comportan de manera muy similar a la suma de los números de un [campo algebraico de 7 elementos](https://www.nku.edu/~christensen/Introduction%20to%20finite%20fields%20I.pdf):
+El esquema de los colores depende de la percepción humana (y no daltónica) de una reducida franja del espectro lumínico. Más universales son las matemáticas. Obsérvese el siguiente esquema:
+
+Las combinaciones de los colores primarios se comportan de manera muy similar a la suma de los números de un [campo algebraico de 7 elementos](https://www.nku.edu/~christensen/Introduction%20to%20finite%20fields%20I.pdf):
 
 ![](numbers.png)
 
