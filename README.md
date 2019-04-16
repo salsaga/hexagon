@@ -60,7 +60,7 @@ El esquema de los colores depende de la percepción humana (y no daltónica) de 
 
 Así como los colores primarios se combinan para producir magenta, cian y amarillo, los números 1, 2 y 4 se suman, produciendo de manera análoga los números 3, 6 y 5. Al combinar los tres colores primarios se obtiene el blanco y, análogamente, 1 + 2 + 4 = 7. 
 
-Este esquema de números se torna aún más interesante si se considera la aritmética módulo 7. [Este enlace contiene una introducción sencilla a la aritmética modular](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/what-is-modular-arithmetic). En el caso específico del 7, se dice que dos números son iguales módulo 7, si la diferencia entre ellos es múltiplo de 7. Por ejemplo, 27 = 6 módulo 7 (lo que puede abreviarse 27 mod 7 = 6 o también 27 = 6 mod 7), porque 27 - 6 = 3x7. Es como identificar cada número con algún número menor que 7: 
+Este esquema de números se torna aún más interesante si se considera la aritmética módulo 7. [Este enlace contiene una introducción sencilla a la aritmética modular](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/what-is-modular-arithmetic). En el caso específico del 7, dos números son iguales módulo 7, si la diferencia entre ellos es múltiplo de 7. Por ejemplo, 27 = 6 módulo 7 (lo que puede abreviarse 27 mod 7 = 6 o también 27 = 6 mod 7), porque 27 - 6 = 3x7. Es como identificar cada número con algún número menor que 7: 
 
 ![](spiral.png)
 
