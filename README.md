@@ -68,8 +68,6 @@ Puede comprobar entonces el lector que la suma de los números del triángulo de
 
 De hecho, este hexágono de números constituye un [campo algebraico de 7 elementos](https://www.nku.edu/~christensen/Introduction%20to%20finite%20fields%20I.pdf). Lo cuál básicamente significa que la multiplicación también se comporta 'bonito'.
 
-Obsérvese que en el hexágono de números, el color verde corresponde al 4, pero habíamos asociado al verde con el Día 3. El problema es que si se considerara un triángulo con vértices 1, 2 y 3, no podría colocarse un triángulo complementario de forma que la suma y la multiplicación se comporten 'bonito'. Pero, ¿es esto realmente un problema? 
-
 ---
 
 Consideremos el cero. La nada. El ámbito desordenado y vacío que existía antes de que Dios dijera "sea". El color negro, vacío, en que está inmerso el hexágono de colores primarios de luz. 
@@ -77,8 +75,6 @@ Consideremos el cero. La nada. El ámbito desordenado y vacío que existía ante
 ¿Por qué existe el Ser en lugar de la Nada? El *Ser* de la Creación surge del *No Ser* primordial. Luego, el *Ser* - Vida desemboca inevitablemente en el *No Ser* - Muerte, pero es necesario que haya muerte para que pueda surgir nueva vida. *No Ser* - *Ser*, negro - blanco, noche - día, frío - calor. Igual de malo es el calor en exceso que la ausencia completa de calor. 
 
 Podríamos representar esta dualidad fundamental con el símbolo del Yin-Yang, pero también podríamos pensar simplemente en un punto de luz blanca en medio de la oscuridad. Una estrella en medio del universo. Un único punto de luz *Ser*, un único Dios. Pero esta unicidad simple y luminosa, ¿puede realmente ser concebida sin el fondo negro?
-
----
 
 En el sistema binario bastan el *No Ser* - Cero y el *Ser* - Uno para expresar todos los números naturales. 
 
