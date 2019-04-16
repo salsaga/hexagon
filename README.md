@@ -151,7 +151,7 @@ En realidad, lo de la Trinidad cristiana no tiene nada que ver con lo que aquí 
 Si asociamos nuevamente el fuego con la luz que protagoniza el par Día 1 - Día 4, tenemos lista para la hoguera de la inquisición la siguiente herejía:
 
 Par de días | Sustantivo | Elemento | Persona
--|-|-
+-|-|-|-
 Día 1 - Día 4 | Dios | Fuego  | Padre
 Día 2 - Día 5 | Cielos | Agua | Espíritu Santo
 Día 3 - Día 6 | Tierra | Tierra | Hijo
