@@ -44,7 +44,7 @@ El color de las plantas que cubren la Tierra que crea Dios el tercer día.
 
 Día 4 - ¿Magenta?
 
-Día 5 - Cian 
+Día 5 - Cian  
 El color de las aguas someras y el cielo claro que habitan los peces y las aves.
 
 Día 6 - ¿Amarillo?
@@ -56,23 +56,27 @@ Día 7 - Blanco
 
 El esquema de los colores depende de la percepción humana (y no daltónica) de una reducida franja del espectro lumínico. Más universales son las matemáticas. Obsérvese el siguiente esquema:
 
-Las combinaciones de los colores primarios se comportan de manera muy similar a la suma de los números de un [campo algebraico de 7 elementos](https://www.nku.edu/~christensen/Introduction%20to%20finite%20fields%20I.pdf):
-
 ![](numbers.png)
 
-Obsérvese que en este hexágono los números no coinciden con los números de los días que he querido asociar con los colores. Por ejemplo, en este esquema el verde corresponde al 4, pero habíamos asociado al verde con el Día 3. 
+Así como los colores primarios se combinan para producir magenta, cian y amarillo, los números 1, 2 y 4 se suman, produciendo de manera análoga los números 3, 6 y 5. Al combinar los tres colores primarios se obtiene el blanco y, análogamente, 1 + 2 + 4 = 7. 
 
-Si le da curiosidad al lector saber qué significa la expresión "7 = 0 mod 7", o entender un poco mejor la explicación de los campos finitos del enlace anterior, [puede intersarle esta introducción a la aritmética modular](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/what-is-modular-arithmetic) (la notación es un poco diferente, en lugar de escribir "7 = 0 mod 7", escribirían "7 mod 7 = 0", pero es lo mismo). 
+Este esquema de números se torna aún más interesante si se considera la aritmética módulo 7. [Este enlace contiene una introducción sencilla a la aritmética modular](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/what-is-modular-arithmetic). En el caso específico del 7, se dice que dos números son iguales módulo 7, si la diferencia entre ellos es múltiplo de 7. Por ejemplo, 27 = 6 módulo 7 (lo que puede abreviarse 27 mod 7 = 6 o también 27 = 6 mod 7), porque 27 - 6 = 3x7. Es como identificar cada número con algún número menor que 7: 
 
 ![](spiral.png)
 
+Puede comprobar entonces el lector que la suma de los números del triángulo de colores secundarios también es 7 módulo 7, y los números que están en medio de cada par de colores secundarios, también es la suma, módulo 7, de los colores correspondientes. 
+
+De hecho, este hexágono de números constituye un [campo algebraico de 7 elementos](https://www.nku.edu/~christensen/Introduction%20to%20finite%20fields%20I.pdf). Lo cuál básicamente significa que la multiplicación también se comporta 'bonito'.
+
+Obsérvese que en el hexágono de números, el color verde corresponde al 4, pero habíamos asociado al verde con el Día 3. El problema es que si se considerara un triángulo con vértices 1, 2 y 3, no podría colocarse un triángulo complementario de forma que la suma y la multiplicación se comporten 'bonito'. Pero, ¿es esto realmente un problema? 
+
 ---
 
-El cero. La nada. El ámbito desordenado y vacío que existía antes de que Dios dijera "sea". El color negro, vacío, en que está inmerso el hexágono de colores primarios de luz. 
+Consideremos el cero. La nada. El ámbito desordenado y vacío que existía antes de que Dios dijera "sea". El color negro, vacío, en que está inmerso el hexágono de colores primarios de luz. 
 
 ¿Por qué existe el Ser en lugar de la Nada? El *Ser* de la Creación surge del *No Ser* primordial. Luego, el *Ser* - Vida desemboca inevitablemente en el *No Ser* - Muerte, pero es necesario que haya muerte para que pueda surgir nueva vida. *No Ser* - *Ser*, negro - blanco, noche - día, frío - calor. Igual de malo es el calor en exceso que la ausencia completa de calor. 
 
-Podríamos representar esta dualidad fundamental con el símbolo del Yin-Yang, aunque la alegoría se acercaría más al relato de la Creación si simplemente pintamos un punto de luz blanca en medio de la oscuridad. Una estrella en medio del universo. Un único punto de luz *Ser*, un único Dios. Pero esta unicidad simple y luminosa, ¿puede realmente ser concebida sin el fondo negro?
+Podríamos representar esta dualidad fundamental con el símbolo del Yin-Yang, pero también podríamos pensar simplemente en un punto de luz blanca en medio de la oscuridad. Una estrella en medio del universo. Un único punto de luz *Ser*, un único Dios. Pero esta unicidad simple y luminosa, ¿puede realmente ser concebida sin el fondo negro?
 
 ---
 
@@ -102,9 +106,9 @@ Observemos ahora la siguiente versión binaria del campo algebraico de 7 element
 
 ![](binaries.png)
 
-En realidad, en el campo de 7 elementos, el número que se encuentra en el centro es el neutro aditivo, es decir, el cero. Pero así como la aritmética módulo 7 no distingue el 7 del 0, ¿cómo distingue un detector de carga eléctrica si la carga neutra se debe a la ausencia de elementos o a la prsencia de un elemento negativo combinado con un elemento positivo? Lo mismo puede preguntarse de un detector de carga de color, esa que poseen los quarks, ¿cómo distinguir el vacío, la ausencia de elementos, de la presencia de un quark 'rojo', uno 'azul' y uno 'verde' combinados? Ambas cargas son neutras.
+En realidad, en el campo de 7 elementos, el número que se encuentra en el centro es el neutro aditivo, es decir, el cero. Pero así como la aritmética módulo 7 no distingue el 7 del 0, ¿cómo distingue un detector de carga eléctrica si la carga neutra se debe a la ausencia de elementos o a la presencia de un elemento negativo combinado con un elemento positivo? Lo mismo puede preguntarse de un detector de carga de color, esa que poseen los quarks, ¿cómo distinguir el vacío, la ausencia de elementos, de la presencia de un quark 'rojo', uno 'azul' y uno 'verde' combinados? Ambas cargas son neutras.
 
-Nunca está de más insistir en que los 'colores' de las cargas de los quarks no tienen nada que ver con los colores lumínicos. Los descubridores de la 'carga de color', simplemente necesitaban una nomenclatura para el fenómeno que acababan de descubrir, que funciona con base en tres tipos de cargas que se combinan. Se les ocurrieron los colores primarios porque también son tres y también se combinan, pero no hay ninguna otra conexión. 
+Nunca está de más insistir en que los 'colores' de las cargas de los quarks no tienen nada que ver con los colores que ven nuestros ojos. Los descubridores de la 'carga de color', simplemente necesitaban una nomenclatura para el fenómeno que acababan de descubrir, el cual funciona con tres tipos de cargas que se combinan. Se les ocurrieron los colores primarios porque también son tres y también se combinan, pero no hay ninguna otra conexión. 
 
 Mi punto es, si el Todo incluye realmente todas las fuerzas y si al incluir todas las fuerzas, éstas se equilibran, ¿cómo distinguir esta plenitud del equilibrio perfecto de fuerzas que existe en la Nada?
 
@@ -130,7 +134,7 @@ El 100 es el cuatro. La Tierra, que surge el tercer día, posee cuatro puntos ca
 
 Los primeros tres días recorren el triángulo de los colores que poseen sólo un elemento de luz, rotando un tercio del círculo para ir de un punto al otro. En los diagramas he presentado el punto que corresponde al 1, a la derecha del eje horizontal que atraviesa el círculo, y la rotación de los días va hacia la izquierda. Los siguientes 3 días recorren los colores con dos elementos de luz, rotando también hacia la izquierda, casi repitiendo el mismo recorrido de los primeros tres días. 
 
-En este campo algebraico de 7 elementos, multiplicar dos números equivale a rotar hacia la izquierda uno de ellos, por el ángulo que forma el otro punto con el 1, que es el neutro multiplicativo. 
+En este campo algebraico de 7 elementos, multiplicar dos números equivale a rotar hacia la izquierda uno de ellos, por el ángulo que forma el otro punto con el 1, que es el neutro multiplicativo. El lector puede comprobar, por ejemplo, que 2x4 = 8 = 1 mod 7, y que si se para en el punto 2 y rota a la izquierda tanto como el ángulo que forma el 4 con el 1, llega al punto 1. Similarmente, multiplicar 6 por 6 equivaldría a dar dos medias vueltas, que te regresa al punto de partida, y 6x6 = 36 = 1 mod 7, que es el neutro multiplicativo. 
 
 ---
 
@@ -139,7 +143,19 @@ En el esquema que surge de la dualidad fundamental *Ser* - *No Ser*, cada potenc
 Al igual que 7, el número 3 es primo, de modo que también existe un campo algebraico de 3 elementos. Esta magia se pierde con 2^4, pero se recupera con 2^5. Los números primos de la forma 2^n - 1 se conocen como primos de Mersenne. Entre otras cuestiones de interés matemático, todos los números perfectos que se conocen son pares, triangulares, hexagonales y están determinados por primos de Mersenne.
 
 2^1 - 1 = 1 &nbsp; &nbsp; Dios es uno.  
-2^2 - 1 = 3 &nbsp; &nbsp; Tres son las personas de la Trinidad: Padre, Hijo y Espíritu Santo.  
+2^2 - 1 = 3 &nbsp; &nbsp; ¿No son tres son las personas de la Trinidad cristiana: Padre, Hijo y Espíritu Santo?  
 2^3 - 1 = 7 &nbsp; &nbsp; Siete son los días de la Creación, y es el número que más veces se repite en la Biblia.
 
+En realidad, lo de la Trinidad cristiana no tiene nada que ver con lo que aquí se discute. Concentrémonos más bien en los tres sustantivos que aparecen en el primer versículo del Génesis: Dios, Cielo, Tierra. Y en el hecho de que tres puntas tienen cada uno de los triángulos del hexágono que hemos estudiado. El autor monoteista del Génesis nos habla de 7 días que pueden estructurarse en 3 pares más 1 día. 7, 3, 1.
+
+¿Poseía entonces el autor del Génesis una sabiduría arcana que incluía los campos algebraicos y los primos de Mersenne? Desde luego que no. Quizá su motivación era fundamentar míticamente una semana de 7 días, tal vez originada en el hecho de que las fases lunares duran aproximadamente 7.4 días. O quizá el número 7 era importante para los judíos por cualquier otro motivo. La cuestión es que al querer darle cierta estructura simétrica a los 7 días, el número 3 aparece de manera natural. En cuanto a que se usaran tres sustantivos en el primer versículo, bien pudo haber sido mera casualidad. 
+
 ---
+
+Si asociamos nuevamente el fuego con la luz que protagoniza el par Día 1 - Día 4, tenemos lista para la hoguera de la inquisición la siguiente herejía:
+
+Par de días | Sustantivo | Elemento | Persona
+-|-|-
+Día 1 - Día 4 | Dios | Fuego  | Padre
+Día 2 - Día 5 | Cielos | Agua | Espíritu Santo
+Día 3 - Día 6 | Tierra | Tierra | Hijo
