@@ -163,12 +163,28 @@ Día 1 - Día 4 | Dios | Fuego  | Padre | Sol | Calor
 Día 2 - Día 5 | Cielos | Agua | Espíritu Santo | Luna | Frío
 Día 3 - Día 6 | Tierra | Tierra | Hijo | Tierra | Equilibrio
 
-Que ni se preocupe el Santo Oficio, que también es material para la hoguera del racionalismo. Estas asociaciones no tienen ningún sustento, ni racional, ni religioso, ni histórico. Ni siquiera he encontrado sitio esotórico alguno que presente algo similar. Tal vez podrían defenderse desde un punto de vista filosófico, pero no seré yo quien lo haga, al menos por ahora. Así que el lector es libre de hacer con esto lo que le plazca. Pero si lo que le place es meditar sobre estas cuestiones, digamos una cosa más.
+Que ni se preocupe el Santo Oficio, que también es material para la hoguera del racionalismo. Estas asociaciones no tienen ningún sustento, ni racional, ni religioso, ni histórico. Tal vez podrían defenderse desde un punto de vista filosófico, pero no seré yo quien lo haga, al menos por ahora. Así que el lector es libre de hacer con esto lo que le plazca. Pero si lo que le place es meditar sobre estas cuestiones, quisiera decir unas cuantas cosas más.
 
 1. Que si ordenamos los elementos alquímicos del más sutil al más denso, entonces los días de la creación los recorren en orden. De los cuatro elementos clásicos, falta uno, el aire, que es el más sutil y podríamos asociar con el *No Ser*. Y si en las combinaciones binarias de dos dígitos (que surgen de 2^2), asociamos el 0 con la sutileza y el 1 con la densidad, entonces aire - fuego - agua - tierra se corresponden bien con 00 - 01 - 10 - 11.
 
-2. Obsérvese el verdedadero espectro de los colores:
+2. Nótese que en los colores primarios que hemos hecho corresponder con el par Día 2 - Día 5 se encuentran juntos en el espectro. Los mismo ocurre con el par Día 3 - Día 6. No es así con el par Día 1 - Día 4, cuyos colores, aparentemente se encuentran en extremos opuestos. Excepto porque el color violeta que aparece a la izquierda del azul en el espectro no es realmente el mismo tono que el magenta del hexágono de colores primarios. El magenta, de hecho, no existe en el espectro. El magenta trasciende el espectro. El magenta es el mismo tono que el imperial púrpura, sólo que más brillante. Si se proyectaran los colores del espectro sobre una recta infinita, ¿no podría corresponderse el magenta con el punto al infinito? 
 
-![](spectrum.jpg)
+3. Debo admitir que este texto ha sido parcialmente motivado por algunas consideraciones 'esotéricas'. Particularmente, una vieja obsesión por desentreñar el verdadero significado simbólico de la astrología me llevó a intentar hacer corresponder los [7 planetas de la astrología clásica](https://en.wikipedia.org/wiki/Classical_planet) con los 7 puntos del hexágono. Pero tras largas horas de barajar diversas combinaciones he llegado a la conclusión de que cualquier asociación sería completamente arbitraria. Los esquemas hexagonales que pueden encontrarse en textos astrológicos, realmente no encajan en el hexágono de colores primarios y secundarios. Y, ultimadamente, no hay nada científicamente interesante en el sistema geocéntrico en que se basaban los planetas clásicos. Lo más convincente que he obtenido, además de la columna 'Cuerpo celeste' de la tabla anterior, son las siguientes versiones no autorizadas de la Trinidad:
 
-Nótese que los colores que hemos hecho corresponder con el par Día 2 - Día 5 están juntos. Los mismo ocurre con el par Día 3 - Día 6. No es así con el par Día 1 - Día 4, cuyos colores, aparentemente se encuentran en extremos opuestos. Excepto porque el color violeta que aparece a la izquierda del azul en el espectro no es realmente el mismo tono que el magenta del hexágono de colores primarios. El magenta, de hecho, no existe en el espectro. El magenta trasciende el espectro. El magenta es el mismo tono que el imperial púrpura, sólo que más brillante. Si se proyectaran los colores del espectro sobre una recta infinita, ¿no podría corresponderse el magenta con el punto al infinito? 
+Sustantivo | Persona | Elemento | Color | Planeta con color
+-|-|-|-|-
+Dios | Padre | Fuego | Rojo | Marte
+Cielos | Espíritu Santo | Agua | Azul | Neptuno
+Tierra | Hijo | Tierra | Verde - Amarillo | Venus
+
+Persona | Sustantivo | Planeta grandote
+-|-|-
+Padre | Dios | Júpiter
+Cielos | Espíritu Santo | ¿Urano? 
+Tierra | Hijo | ¿Saturno?
+
+¿Y Mercurio, el mensajero de los dioses, que tan cerca ronda al Sol? ¿No es también el Espíritu Santo mensajero de Dios? ¿O esos son los ángeles? ¿Quiénes son los siete espíritus que están delante del trono de Dios? ¿Cuáles las siete estrellas que entre siete candelabros de oro tenía el Hijo del Hombre a su diestra? ¿Por qué no se permite al hombre comer del árbol de la sabiduría del bien y del mal? ¿Cuántos misterios se han perdido? ¿Cuántos no nos han sido revelados?
+
+5. En medio de las largas horas (distribuidas a lo largo de años) de obsesión numérico-astrológica, me encontré con [esta web esotérica](https://www.virtuescience.com), específicamente [este artículo](https://www.virtuescience.com/georgeandrews.html) contribuyó a que se me fuera ocurriendo la idea de representar los campos de 3 y 7 elementos con expresiones binarias. 
+
+4. Habiendo confesado las motivaciones esotéricas de este escrito, quisiera dejar en claro Mi principal interés al escribirlo ha sido, en primer lugar, demostrar la riqueza de asociaciones que pueden obtenerse si nos avenimos a interpretar los textos sagrados de manera simbólica y, en segundo lugar, ciertas reflexiones filosóficas que me parecen interesantes.
