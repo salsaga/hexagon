@@ -175,7 +175,7 @@ Sustantivo | Persona | Elemento | Color | Planeta con color
 -|-|-|-|-
 Dios | Padre | Fuego | Rojo | Marte
 Cielos | Espíritu Santo | Agua | Azul | Neptuno
-Tierra | Hijo | Tierra | Verde - Amarillo | Venus
+Tierra | Hijo | Tierra | ¿Verde? ¿Amarillo? | ¿Venus?
 
 Persona | Sustantivo | Planeta grandote
 -|-|-
