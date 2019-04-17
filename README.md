@@ -4,7 +4,7 @@
 
 ---
 
-La Biblia. El texto más leído de la historia. El Antiguo Testamento es escritura sagrada de dos religiones. Una de ellas tiene más adeptos que ninguna otra en el mundo. Aún son muchos los que creen que los relatos biblícos son verdad absoluta, y hay quienes creen, por ejemplo, que las plantas no debieron pasar por un proceso de evolución de millones de años, sino que Dios las hizo crecer en un día con su milagroso poder. 
+La Biblia es el texto más leído de la historia, y el Antiguo Testamento es escritura sagrada de dos religiones, una de las cuales tiene más adeptos que ninguna otra en el mundo. Aún son muchos los que creen que los relatos biblícos son verdad absoluta, y hay quienes creen, por ejemplo, que las plantas no debieron pasar por un proceso de evolución de millones de años, sino que Dios las hizo crecer en un día con su milagroso poder. 
 
 ¿Por qué creó Dios el mundo en seis días? Los eventos del primer relato del Génesis transcurren en un periodo de tiempo demasiado corto para los estándares de la ciencia moderna y demasiado largo para un ser todo poderoso que bien pudo haber dicho 'sea todo ya'. Un 'literalista' dirá que Dios quiso establecer un patrón de días de trabajo y descanso adecuado para el hombre. Pero ¿por qué no 5 u 8 días?, ¿ya sabía Dios desde el principio que Adán se comería la manzana y que debería condenarle, por tanto, a trabajar el resto de sus días?
 
@@ -34,7 +34,7 @@ Si se colocan 6 puntos en círculo, formando un hexágono, el resultado es basta
 La estructura de este hexágono evoca bastante la estructura del primer relato del Génesis. ¿Podrán asociarse los colores y los días? Propuesta:
 
 Día 1 - Rojo  
-Si se asocia el rojo con el fuego, y el fuego con la luz; la luz que crea Dios el primer día. 
+El primer día Dios crea la luz. La luz no es sólo brillo, es energía y, por tanto, calor. El fuego es luminoso y cálido. El color rojo también se percibe brillante y cálido, y no es raro asociar el rojo y el fuego.
 
 Día 2 - Azul  
 El color del cielo profundo y los mares profundos, es decir, las aguas que separa Dios el segundo día.
@@ -60,7 +60,7 @@ El esquema de los colores depende de la percepción humana (y no daltónica) de 
 
 Así como los colores primarios se combinan para producir magenta, cian y amarillo, los números 1, 2 y 4 se suman, produciendo de manera análoga los números 3, 6 y 5. Al combinar los tres colores primarios se obtiene el blanco y, análogamente, 1 + 2 + 4 = 7. 
 
-Este esquema de números se torna aún más interesante si se considera la aritmética módulo 7. [En este enlace se explica con detalle y esmero la aritmética modular](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/what-is-modular-arithmetic). En el caso específico del 7, dos números son iguales módulo 7, si la diferencia entre ellos es múltiplo de 7. Por ejemplo, 27 = 6 módulo 7 porque 27 - 6 = 3x7. Es como identificar cada número con algún número menor que 7: 
+Este esquema de números se torna aún más interesante si se considera la aritmética módulo 7. [En este enlace se explica con detalle y esmero la aritmética modular](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/what-is-modular-arithmetic). En el caso específico del 7, dos números son iguales módulo 7, si la diferencia entre ellos es múltiplo de 7. Por ejemplo, 27 = 6 módulo 7 porque 27 - 6 = 3x7. Es como 'enrollar' todos los números alrededor de los primeros 7: 
 
 ![](spiral.png)
 
@@ -74,21 +74,8 @@ Consideremos el cero. La nada. El ámbito desordenado y vacío que existía ante
 
 ¿Por qué existe el Ser en lugar de la Nada? El *Ser* de la Creación surge del *No Ser* primordial. Luego, el *Ser* - Vida desemboca inevitablemente en el *No Ser* - Muerte, pero es necesario que haya muerte para que pueda surgir nueva vida. *No Ser* - *Ser*, negro - blanco, noche - día, frío - calor. Igual de malo es el calor en exceso que la ausencia completa de calor. 
 
-Podríamos representar esta dualidad fundamental con el símbolo del Yin-Yang, pero también podríamos pensar simplemente en un punto de luz blanca en medio de la oscuridad. Una estrella en medio del universo. Un único punto de luz *Ser*, un único Dios. Pero esta unicidad simple y luminosa, ¿puede realmente ser concebida sin el fondo negro?
+En el sistema binario bastan el *No Ser* - Cero y el *Ser* - Uno para expresar todos los números naturales. Por ejemplo, los números del 0 al 7 se pudeen expresar como combinaciones binarias de 3 dígitos:
 
-En el sistema binario bastan el *No Ser* - Cero y el *Ser* - Uno para expresar todos los números naturales. 
-
-Combinaciones binarias de 1 dígito:  
-0 - Cero  
-1 - Uno
-
-Combinaciones binarias de 2 dígitos:  
-00 - Cero  
-01 - Uno  
-10 - Dos  
-11 - Tres
-
-Combinaciones binarias de 3 dígitos:  
 000 - Cero  
 001 - Uno  
 010 - Dos  
@@ -133,6 +120,20 @@ Los primeros tres días recorren el triángulo de los colores que poseen sólo u
 En este campo algebraico de 7 elementos, multiplicar dos números equivale a rotar hacia la izquierda uno de ellos, por el ángulo que forma el otro punto con el 1, que es el neutro multiplicativo. El lector puede comprobar, por ejemplo, que 2x4 = 8 = 1 mod 7, y que si se para en el punto 2 y rota a la izquierda tanto como el ángulo que forma el 4 con el 1, llega al punto 1. Similarmente, multiplicar 6 por 6 equivaldría a dar dos medias vueltas, que te regresa al punto de partida, y 6x6 = 36 = 1 mod 7, que es el neutro multiplicativo. 
 
 ---
+
+¿Qué había antes de que Dios creará el mundo? ¿Qué había antes del Big Bang? ¿Realmente pudo haber surgido el universo de la nada? En cualquier caso, dice la Biblia que 'las tinieblas se hallaban sobre la superficie del abismo', y el primer acto de Dios fue decir 'sea la luz'. Un punto de luz blanca en medio de la oscuridad. Una estrella en medio del universo. Un único punto de luz *Ser*, un único Dios. 
+
+Pero esta unicidad simple y luminosa, ¿puede realmente ser concebida sin el fondo negro? Lo primero fue la luz, y ya hemos asociado la luz con el 1, el primer número. Pero ¿puede concebirse la luz sin la oscuridad o el calor sin el frío? En cierta forma la Unidad es imposible sin la Dualidad. 
+
+Hay otra forma de ver los colores. Una quizá más natural, de hecho, que el hexágono de colores primarios y secundarios. El espectro determinado por la longitud de onda de la luz:
+
+![](spectrum.jpg)
+
+Algo curioso es que usualmente percibimos los colores violeta, azul y cian como colores fríos, en tanto que el amarillo, anaranjado y rojo los percibimos como colores cálidos. En realidad, la longitud de onda de los colores de la izquierda es más corta que la de los colores de la derecha, lo que implica que la luz violeta, azul y cian conlleva más energía y calor que la luz amarilla, anaranjada y roja. No obstante, y aunque los conceptos abstractos que aquí se discuten son simétricos, seguiremos asociando aquí los colores de la izquierda con el frío, y los de la derecha con el calor, porque es como debieron concebirlos los hombres de la antigüedad, los autores de la Biblia entre ellos. 
+
+Lo que realmente importa es que hay dos extremos, y que ninguno de los dos es por sí mismo bueno. El exceso de frío y el exceso de calor matan. Lo que es bueno es el equilibrio, el punto medio. Y en medio está el verde que podemos asociar con la vegetación que nos provee alimento, es decir, vida. 
+
+
 
 En el esquema que surge de la dualidad fundamental *Ser* - *No Ser*, cada potencia de 2 provee una alegoría del universo entero. Si empezamos con 2^0, obtenemos una sola entidad, que podemos concebir como el Todo, el universo en su conjunto. De esa única entidad primigenia surge la dualidad 2^1. De 2^3 hemos obtenido el *No Ser* 000 más las 7 entidades que hemos relacionado con las etapas de la Creación (la cual, que ciertamente simboliza al universo entero). Nos hemos saltado 2^2, que provee el *No Ser* 00 más otras 3 entidades. 
 
