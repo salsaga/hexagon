@@ -155,3 +155,9 @@ Par de días | Sustantivo | Elemento | Persona
 Día 1 - Día 4 | Dios | Fuego  | Padre
 Día 2 - Día 5 | Cielos | Agua | Espíritu Santo
 Día 3 - Día 6 | Tierra | Tierra | Hijo
+
+Que ni se preocupe el Santo Oficio, que también es material para la hoguera del racionalismo. Estas asociaciones no tienen ningún sustento, ni racional, ni religioso, ni histórico. Ni siquiera he encontrado sitio esotórico alguno que presente algo similar. Tal vez podría defenderlas desde un punto de vista filosófico, pero me da flojera siquiera leer a Espinoza, al menos por ahora. Así que el lector es libre de hacer con esto lo que le plazca. Pero si lo que le place es meditar sobre estas cuestiones, digamos otro par de cosas.
+
+1.- Que si ordenamos los elementos alquímicos del más sutil al más denso, entonces los días de la creación los recorren en orden. De los cuatro elementos clásicos, falta uno, el aire, que es el más sutil y podríamos asociar con el *No Ser*. Y si en las combinaciones binarias de dos dígitos (que surgen de 2^2), asociamos el 0 con la sutileza y el 1 con la densidad, entonces aire - fuego - agua - tierra se corresponden bien con 00 - 01 - 10 - 11.
+
+2.- Observemos el verdedadero espectro de los colores:
