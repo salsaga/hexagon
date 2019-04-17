@@ -109,10 +109,10 @@ De acuerdo a este esquema, en el relato de la Creación, los primeros tres días
 001 - Día 1  
 El 001 es el uno. Dios es uno, y una es la voluntad de Dios que dijo 'sea la luz', y aparece un punto de luz en medio de la oscuridad.
 
-010 - Día 2
+010 - Día 2  
 El 010 es el dos. El segundo día se separaron las aguas. Existen ahora dos aguas, las de arriba y las de abajo.
 
-100 - Día 3.
+100 - Día 3  
 El 100 es el cuatro. La Tierra, que surge el tercer día, posee cuatro puntos cardinales. La seca tierra es sólida como un cuadrado, estable como una mesa con cuatro puntos de apoyo. 
 
 Los primeros tres días recorren el triángulo de los colores que poseen sólo un elemento de luz, rotando un tercio del círculo para ir de un punto al otro. En los diagramas he presentado el punto que corresponde al 1, a la derecha del eje horizontal que atraviesa el círculo, y la rotación de los días va hacia la izquierda. Los siguientes 3 días recorren los colores con dos elementos de luz, rotando también hacia la izquierda, casi repitiendo el mismo recorrido de los primeros tres días. 
@@ -132,6 +132,10 @@ Hay otra forma de ver los colores. Una quizá más natural, de hecho, que el hex
 Algo curioso es que usualmente percibimos los colores violeta, azul y cian como colores fríos, en tanto que el amarillo, anaranjado y rojo los percibimos como colores cálidos. En realidad, la longitud de onda de los colores de la izquierda es más corta que la de los colores de la derecha, lo que implica que la luz violeta, azul y cian conlleva más energía y calor que la luz amarilla, anaranjada y roja. No obstante, y aunque los conceptos abstractos que aquí se discuten son simétricos, seguiremos asociando aquí los colores de la izquierda con el frío, y los de la derecha con el calor, porque es como debieron concebirlos los hombres de la antigüedad, los autores de la Biblia entre ellos. 
 
 Lo que realmente importa es que hay dos extremos, y que ninguno de los dos es por sí mismo bueno. El exceso de frío y el exceso de calor matan. Lo que es bueno es el equilibrio, el punto medio. Y en medio está el verde que podemos asociar con la vegetación que nos provee alimento, es decir, vida. 
+
+Consideremos ahora las combinaciones binarias de 2 dígitos, 00, 01, 10 y 11, junto con la siguiente imagen:
+
+![](trinity.png)
 
 
 
