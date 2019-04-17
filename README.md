@@ -156,10 +156,32 @@ Día 1 - Día 4 | Dios | Fuego  | Padre
 Día 2 - Día 5 | Cielos | Agua | Espíritu Santo
 Día 3 - Día 6 | Tierra | Tierra | Hijo
 
-Que ni se preocupe el Santo Oficio, que también es material para la hoguera del racionalismo. Estas asociaciones no tienen ningún sustento, ni racional, ni religioso, ni histórico. Ni siquiera he encontrado sitio esotórico alguno que presente algo similar. Tal vez podría defenderlas desde un punto de vista filosófico, pero me da flojera siquiera leer a Espinoza, al menos por ahora. Así que el lector es libre de hacer con esto lo que le plazca. Pero si lo que le place es meditar sobre estas cuestiones, digamos otro par de cosas.
+Que ni se preocupe el Santo Oficio, que también es material para la hoguera del racionalismo. Estas asociaciones no tienen ningún sustento, ni racional, ni religioso, ni histórico. Ni siquiera he encontrado sitio esotórico alguno que presente algo similar. Tal vez podrían defenderse desde un punto de vista filosófico, pero no seré yo quien lo haga, al menos por ahora. Así que el lector es libre de hacer con esto lo que le plazca. Pero si lo que le place es meditar sobre estas cuestiones, digamos otro par de cosas.
 
 1. Que si ordenamos los elementos alquímicos del más sutil al más denso, entonces los días de la creación los recorren en orden. De los cuatro elementos clásicos, falta uno, el aire, que es el más sutil y podríamos asociar con el *No Ser*. Y si en las combinaciones binarias de dos dígitos (que surgen de 2^2), asociamos el 0 con la sutileza y el 1 con la densidad, entonces aire - fuego - agua - tierra se corresponden bien con 00 - 01 - 10 - 11.
 
-2. Observemos el verdedadero espectro de los colores:
+2. Obsérvese el verdedadero espectro de los colores:
 
 ![](spectrum.jpg)
+
+Nótese que los colores que hemos hecho corresponder con el par Día 2 - Día 5 están juntos. Los mismo ocurre con el par Día 3 - Día 6. No es así con el par Día 1 - Día 4, cuyos colores, aparentemente se encuentran en extremos opuestos. Excepto porque el color violeta que aparece a la izquierda del azul en el espectro no es realmente el mismo tono que el magenta del hexágono de colores primarios. El magenta, de hecho, no existe en el espectro. El magenta trasciende el espectro. El magenta es el mismo tono que el imperial púrpura, sólo que más brillante. Si se proyectaran los colores del espectro sobre una recta infinita, ¿no podría corresponderse el magenta con el punto al infinito? 
+
+---
+
+El Sol es siempre brillante ¿amarillo o blanco? La Luna sí que es blanca... o negra, Luna dual.
+
+Marte, el planeta rojo y, como dios guerrero, decidido y activo como el fuego.
+
+Neptuno, el planeta más lejano y, a la vez, dios de los mares, es azul como el azul de los cielos profundos y las aguas profundas.
+
+Venus, el planeta de la belleza, belleza como la del paraíso lleno de árboles, es la Tierra con su vegetación antes de que la mancillase el hombre.
+
+Entre Marte y Venus está la verdadera Tierra atestada de hombres, cada vez más amarilla que verde.
+
+Entre Marte y Neptuno hay tres planetas. Júpiter, dicen los esotéricos, es el 'Dios Padre', pero ¿quién es el Dios Hijo y quién el Espíritu Santo?
+
+¿De qué color es Mercurio, mensajero de los dioses? ¿No es también el Espíritu Santo mensajero de Dios? ¿O esos son los ángeles? 
+
+¿Quiénes son los siete espíritus que están delante del trono de Dios? ¿Cuáles las siete estrellas que entre siete candelabros de oro tenía el Hijo del Hombre a su diestra? ¿Por qué no se permite al hombre comer del árbol de la sabiduría del bien y del mal? ¿Cuántos misterios se han perdido? ¿Cuántos no nos han sido revelados?
+
+Por cierto, no es necesario que venga un dios a provocar un apocalipsis. Nosotros solitos ya nos estamos cargando el mundo y a ninguno de los astros antes mencionados podremos huir.
