@@ -137,9 +137,11 @@ Consideremos ahora las combinaciones binarias de 2 dígitos, 00, 01, 10 y 11, ju
 
 ![](trinity.png)
 
+Si identificamos el 11 con el 00, mediante la aritmética módulo 3, entonces este esquema representa un campo algebraico de 3 elementos.
 
+---
 
-En el esquema que surge de la dualidad fundamental *Ser* - *No Ser*, cada potencia de 2 provee una alegoría del universo entero. Si empezamos con 2^0, obtenemos una sola entidad, que podemos concebir como el Todo, el universo en su conjunto. De esa única entidad primigenia surge la dualidad 2^1. De 2^3 hemos obtenido el *No Ser* 000 más las 7 entidades que hemos relacionado con las etapas de la Creación (la cual, que ciertamente simboliza al universo entero). Nos hemos saltado 2^2, que provee el *No Ser* 00 más otras 3 entidades. 
+A partir de la dualidad fundamental *Ser* - *No Ser*, cada potencia de 2 provee una alegoría del universo entero. Si empezamos con 2^0, obtenemos una sola entidad, que podemos concebir como el Todo, el universo en su conjunto. De esa única entidad primigenia surge la dualidad 2^1.  Del 2^2 podemos obtener el *No Ser* 00 más las 3 entidades, calor 01, frío 10 y equilibrio 11. Y de 2^3 hemos obtenido el *No Ser* 000 más las 7 entidades que hemos relacionado con las etapas de la Creación (la cual ciertamente simboliza al universo entero).
 
 Al igual que 7, el número 3 es primo, de modo que también existe un campo algebraico de 3 elementos. Esta magia se pierde con 2^4, pero se recupera con 2^5. Los números primos de la forma 2^n - 1 se conocen como primos de Mersenne. Entre otras cuestiones de interés matemático, todos los números perfectos que se conocen son pares, triangulares, hexagonales y están determinados por primos de Mersenne.
 
@@ -153,15 +155,15 @@ En realidad, lo de la Trinidad cristiana no tiene nada que ver con lo que aquí 
 
 ---
 
-Si asociamos nuevamente el fuego con la luz que protagoniza el par Día 1 - Día 4, tenemos lista para la hoguera de la inquisición la siguiente herejía:
+Tenemos lista para la hoguera de la inquisición la siguiente herejía:
 
-Par de días | Sustantivo | Elemento | Persona
--|-|-|-
-Día 1 - Día 4 | Dios | Fuego  | Padre
-Día 2 - Día 5 | Cielos | Agua | Espíritu Santo
-Día 3 - Día 6 | Tierra | Tierra | Hijo
+Par de días | Sustantivo | Elemento | Persona | Cuerpo celeste | Temperatura
+-|-|-|-|-|-
+Día 1 - Día 4 | Dios | Fuego  | Padre | Sol | Calor
+Día 2 - Día 5 | Cielos | Agua | Espíritu Santo | Luna | Frío
+Día 3 - Día 6 | Tierra | Tierra | Hijo | Tierra | Equilibrio
 
-Que ni se preocupe el Santo Oficio, que también es material para la hoguera del racionalismo. Estas asociaciones no tienen ningún sustento, ni racional, ni religioso, ni histórico. Ni siquiera he encontrado sitio esotórico alguno que presente algo similar. Tal vez podrían defenderse desde un punto de vista filosófico, pero no seré yo quien lo haga, al menos por ahora. Así que el lector es libre de hacer con esto lo que le plazca. Pero si lo que le place es meditar sobre estas cuestiones, digamos otro par de cosas.
+Que ni se preocupe el Santo Oficio, que también es material para la hoguera del racionalismo. Estas asociaciones no tienen ningún sustento, ni racional, ni religioso, ni histórico. Ni siquiera he encontrado sitio esotórico alguno que presente algo similar. Tal vez podrían defenderse desde un punto de vista filosófico, pero no seré yo quien lo haga, al menos por ahora. Así que el lector es libre de hacer con esto lo que le plazca. Pero si lo que le place es meditar sobre estas cuestiones, digamos una cosa más.
 
 1. Que si ordenamos los elementos alquímicos del más sutil al más denso, entonces los días de la creación los recorren en orden. De los cuatro elementos clásicos, falta uno, el aire, que es el más sutil y podríamos asociar con el *No Ser*. Y si en las combinaciones binarias de dos dígitos (que surgen de 2^2), asociamos el 0 con la sutileza y el 1 con la densidad, entonces aire - fuego - agua - tierra se corresponden bien con 00 - 01 - 10 - 11.
 
